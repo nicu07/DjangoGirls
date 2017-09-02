@@ -1,0 +1,5 @@
+*.pyc #Cuando se acaba de programar y se compila (se convierte en un lenguaje intermedio)
+__pycache__
+myvenv
+db.sqlite3
+.DS_Store
